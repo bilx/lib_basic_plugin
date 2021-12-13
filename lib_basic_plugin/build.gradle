@@ -10,7 +10,6 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.dxkj.lib_basic_plugin"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 1
