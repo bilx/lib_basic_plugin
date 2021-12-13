@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dxkj.lib_basic_plugin">
+
+    <application
+        android:name=".base.BaseApplication"
+        android:theme="@style/AppTheme">
+
+    </application>
+
+</manifest>
