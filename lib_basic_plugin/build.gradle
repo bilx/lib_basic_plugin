@@ -52,8 +52,8 @@ afterEvaluate {
             // Creates a Maven publication called "release".
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.dxkj.lib_basic_plugin'
-                artifactId = 'lib_basic'
+                groupId = 'com.github.bilx'
+                artifactId = 'basicLib'
                 version = '1.0.1'
             }
         }
