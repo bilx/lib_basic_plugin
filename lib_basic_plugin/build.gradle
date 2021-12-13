@@ -53,9 +53,9 @@ afterEvaluate {
             // Creates a Maven publication called "release".
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.april.demo1_module'
-                artifactId = 'aprilPlugin1'
-                version = '1.0'
+                groupId = 'com.dxkj.lib_basic_plugin'
+                artifactId = 'lib_basic'
+                version = '1.0.1'
             }
         }
     }
