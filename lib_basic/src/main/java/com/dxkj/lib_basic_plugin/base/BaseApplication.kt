@@ -4,7 +4,7 @@ import android.app.Application
 import android.content.pm.PackageManager
 import android.util.Log
 
-class BaseApplication : Application() {
+open class BaseApplication : Application() {
 
 
     companion object {
