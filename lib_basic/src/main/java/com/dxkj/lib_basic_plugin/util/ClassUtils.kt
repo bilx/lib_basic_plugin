@@ -1,4 +1,4 @@
-package com.dxkj.lib_basic_plugin.base
+package com.dxkj.lib_basic_plugin.util
 
 import android.content.Context
 import android.util.Log
